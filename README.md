@@ -1,2 +1,2 @@
 # OdinProjectHTML
-That is my first project from OdinProject with HTML
+This is my first Project from The-Odin-Project with HTML and CSS
